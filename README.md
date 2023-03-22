@@ -16,7 +16,7 @@
 I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vancouver, WA.
 
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -38,7 +38,7 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <img src="https://github.com/devicons/devicon/tree/master/icons/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;  
 <img src="https://github.com/devicons/devicon/tree/master/icons/illustrator-original.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/tree/master/icons/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-</p>
+</p> -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amayamaya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
