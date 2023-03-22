@@ -5,9 +5,8 @@
 
 - 🌻 My Name is Amaya
 - 🧚🏼‍♀️ Pronouns: She/They
-- 🌱 I’m currently coding with Alchemy Code Lab
-- 📫 How to reach me: aamaya547@gmail.com 
-- 💻 I am a Full Stack Engineer from Portland, OR.
+- 🌱 Avaiable for Front-End and E-Commerce Development
+- 📫 Get in touch: aamaya547@gmail.com 
 
 
 <p align="center">
@@ -48,7 +47,6 @@ I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amayamaya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amayamaya&theme=gruvbox_duo)](https://git.io/streak-stats)
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/amayamaya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
