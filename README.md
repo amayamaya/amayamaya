@@ -6,14 +6,14 @@
 - 🌻 My Name is Amaya
 - 🧚🏼‍♀️ Pronouns: She/They
 - 🌱 Avaiable for Front-End and E-Commerce Development
-- 📫 Get in touch: aamaya547@gmail.com 
+- 📫 Get in touch: findamayamaya@gmail.com 
 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/amayamaya"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vancouver, WA.
+I am a Full Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Dallas, TX.
 
 
 <!-- <p align="center">
